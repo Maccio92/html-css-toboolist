@@ -6,14 +6,13 @@
 }
 
 body{width: 100%;}
-
 header{
     height:100px;
     margin:2%;
     line-height: 90px;
 }
 main{ 
-    width: 70%;
+    width: 60%;
     margin: 0px auto;
 }
 /* elementi della header */
@@ -70,19 +69,19 @@ color: white;}
 #sales{background-color:#b0c926;}
 
 .checkbox-round {
-    width: 1.5em;
-    height: 1.5em;
+    width: 1.6em;
+    height: 1.6em;
     background-color: white;
     border-radius: 50%;
     vertical-align: middle;
     border: 1.7px solid #a5ddd1;
 }
 .checkbox-round-red {
-    width: 1.5em;
-    height: 1.5em;
+    width: 1.6em;
+    height: 1.6em;
     background-color: white;
     border-radius: 50%;
     vertical-align: middle;
-    border: 1.8px solid red
+    border: 1.7px solid red
     ;
 }
