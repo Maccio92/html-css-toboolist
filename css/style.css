@@ -17,8 +17,9 @@ header{
 main{ 
     background-color: white;
     width: 60%;
-    margin: 2.3em auto;
+    margin: 0 auto;
     border-radius: 5px;
+    padding:5%;
 }
 /* elementi della header */
 h1{
